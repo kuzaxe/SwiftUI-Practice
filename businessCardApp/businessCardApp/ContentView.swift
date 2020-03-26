@@ -33,8 +33,8 @@ struct ContentView: View {
                     .padding(.bottom)
                 Divider()
                     .padding(.bottom)
-                InfoView(text: "+1 647 525 0440", imageName: "phone.fill")
-                InfoView(text: "raj.pandya@outlook.com", imageName: "envelope.fill")
+                InfoView(text: "+1 939 939 4959", imageName: "phone.fill")
+                InfoView(text: "asdf@gmail.com", imageName: "envelope.fill")
             }
         }
     }
